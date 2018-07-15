@@ -4,7 +4,7 @@ Plugin to run shell commands before/after bundling process.
 
 ---
 
-[【What is Parcel】](https://parceljs.org/) [【What is Prettier】](https://prettier.io/)
+[【What is Parcel】](https://parceljs.org/)
 
 ## Installation
 
