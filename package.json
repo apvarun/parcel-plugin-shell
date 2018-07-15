@@ -1,0 +1,15 @@
+{
+  "name": "parcel-plugin-shell",
+  "version": "1.0.0",
+  "description": "Plugin to run shell commands before/after bundling process.",
+  "main": "index.js",
+  "author": "apvarun",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "parcel-bundler": "^1.9.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.9.4"
+  }
+}
